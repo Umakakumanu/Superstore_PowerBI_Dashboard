@@ -1,5 +1,5 @@
 # Superstore_PowerBI_Dashboard
-<img width="300" alt="Coding" src="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard/assets/91487663/02065509-2018-4148-858a-1e61c02c3046">
+<img width="250" alt="Coding" src="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard/assets/91487663/02065509-2018-4148-858a-1e61c02c3046">
 
 <h1><a name="introduction">Introduction</a></h1>
 <p>In the realm of fierce market competition and evolving consumer demands, the Superstore Giant is on a quest to optimize its strategies for success. This Power BI project is dedicated to unraveling the secrets hidden within the Superstore's data treasure trove, offering insights that will guide the organization towards targeted growth, enhanced profitability, and superior decision-making.</p>
