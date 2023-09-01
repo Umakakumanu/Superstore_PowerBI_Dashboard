@@ -1,4 +1,4 @@
-# Superstore PowerBI Dashboard
+# Superstore PowerBI Dashboard🏪
 <img width="250" alt="Coding" src="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard/assets/91487663/02065509-2018-4148-858a-1e61c02c3046">
 
 <h1><a name="introduction">Introduction</a></h1>
@@ -10,7 +10,7 @@
   <li>Analyzing Sales and Profit by City and State</li>
   <li> Profiling Profit Over Time</li>
   <li>Segmenting Sales Analysis</li>
-  <li>Comprehensive Overview:</li>
+  <li>Comprehensive Overview</li>
 </ul>
 <h1><a name='dashboard'>Dashboard</a></h1>
 <img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard/blob/main/super.png">
