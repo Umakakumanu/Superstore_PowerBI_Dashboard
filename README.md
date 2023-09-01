@@ -1,4 +1,4 @@
-# Superstore_PowerBI_Dashboard
+# Superstore PowerBI Dashboard
 <img width="250" alt="Coding" src="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard/assets/91487663/02065509-2018-4148-858a-1e61c02c3046">
 
 <h1><a name="introduction">Introduction</a></h1>
